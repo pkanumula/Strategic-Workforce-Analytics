@@ -52,7 +52,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to customize this README to suit the specifics of your project. We hope this dashboard provides valuable insights to optimize your organization's workforce.
 
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
 
 Happy Analyzing!
 
